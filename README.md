@@ -9,4 +9,4 @@ For fun, and to stay a bit with the times, I used the *Round Tracks* plugin for 
 
 I case one needs a board, am happy to send you one at cost. 
 
-[^1] See Documents folder for details
+[^1]: See Documents folder for details
